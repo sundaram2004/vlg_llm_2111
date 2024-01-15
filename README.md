@@ -1,4 +1,5 @@
 LLM - Detect AI Generated Text
+
 This repository contains code for detecting AI-generated essays using machine learning techniques. The model is trained on a dataset of essays labeled as either human-written or AI-generated.
 
 Introduction
@@ -27,6 +28,7 @@ Usage
 
 
 Results
+
 •	The model achieves high accuracy in detecting AI-generated essays. Check the ROC curve in the notebook for more details.
 •	The submission file (submission.csv) contains the predicted probabilities for AI-generated essays on the test set.
 
