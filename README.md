@@ -1,4 +1,4 @@
-#LLM - Detect AI Generated Text
+##LLM - Detect AI Generated Text
 
 This repository contains code for detecting AI-generated essays using machine learning techniques. The model is trained on a dataset of essays labeled as either human-written or AI-generated.
 
